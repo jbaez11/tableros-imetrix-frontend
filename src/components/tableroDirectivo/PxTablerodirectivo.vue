@@ -399,6 +399,28 @@ export default {
             "https://play-lh.googleusercontent.com/xn2S7Djvn3x05DbnPukGu9ePyk_QlWzPvhbBSaIgjkEZ2vPfkRn9pPmfob8tbBwbUb8"
         },
         {
+          name: "Entel",
+          urlBD: `${process.env.VUE_APP_URLBACKEND}/igsEntelCL/consumptions`,
+          minAnt: 0,
+          ingresosAnt: 0,
+          minAct: 0,
+          ingresosAct: 0,
+          ejecucion: 0,
+          image:
+            "https://play-lh.googleusercontent.com/xn2S7Djvn3x05DbnPukGu9ePyk_QlWzPvhbBSaIgjkEZ2vPfkRn9pPmfob8tbBwbUb8"
+        },
+        {
+          name: "Promerica",
+          urlBD: `${process.env.VUE_APP_URLBACKEND}/igsPromericaCO/consumptions`,
+          minAnt: 0,
+          ingresosAnt: 0,
+          minAct: 0,
+          ingresosAct: 0,
+          ejecucion: 0,
+          image:
+            "https://play-lh.googleusercontent.com/xn2S7Djvn3x05DbnPukGu9ePyk_QlWzPvhbBSaIgjkEZ2vPfkRn9pPmfob8tbBwbUb8"
+        },
+        {
           name: "Serfinanza",
           urlBD: `${process.env.VUE_APP_URLBACKEND}/igsSerfinanzaCO/consumptions`,
           minAnt: 0,
