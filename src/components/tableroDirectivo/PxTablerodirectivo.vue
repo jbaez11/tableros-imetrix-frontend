@@ -31,13 +31,13 @@
                   <div>
                     <v-row>
                       <v-col>
-                        <h4 class="text-center" style="color:#929292">Mayo</h4>
+                        <h4 class="text-center" style="color:#929292">Julio</h4>
                         <h3 class="text-center gray-text">
                           {{ campaign.minAnt }}
                         </h3>
                       </v-col>
                       <v-col>
-                        <h4 class="text-center orange--text">Junio</h4>
+                        <h4 class="text-center orange--text">Agosto</h4>
                         <h3 class="text-center gray-text">
                           {{ campaign.minAct }}
                         </h3>
@@ -47,11 +47,11 @@
                     <!-- </div> -->
                     <v-row>
                       <v-col>
-                        <h4 class="text-center">Ingresos Mayo</h4>
+                        <h4 class="text-center">Ingresos Julio</h4>
                         <h3 class="text-center">{{ campaign.ingresosAnt }}</h3>
                       </v-col>
                       <v-col>
-                        <h4 class="text-center orange--text">Ingresos Junio</h4>
+                        <h4 class="text-center orange--text">Ingresos Agosto</h4>
                         <h3 class="text-center ">{{ campaign.ingresosAct }}</h3>
                       </v-col>
                     </v-row>
@@ -129,14 +129,14 @@
                       <v-row>
                         <v-col>
                           <h4 class="text-center" style="color:#929292">
-                            Mayo
+                            Julio
                           </h4>
                           <h3 class="text-center gray-text">
                             {{ campaign.minAnt }}
                           </h3>
                         </v-col>
                         <v-col>
-                          <h4 class="text-center orange--text">Junio</h4>
+                          <h4 class="text-center orange--text">Agosto</h4>
                           <h3 class="text-center gray-text">
                             {{ campaign.minAct }}
                           </h3>
@@ -146,14 +146,14 @@
                       <!-- </div> -->
                       <v-row>
                         <v-col>
-                          <h4 class="text-center">Ingresos Mayo</h4>
+                          <h4 class="text-center">Ingresos Julio</h4>
                           <h3 class="text-center">
                             {{ campaign.ingresosAnt }}
                           </h3>
                         </v-col>
                         <v-col>
                           <h4 class="text-center orange--text">
-                            Ingresos Junio
+                            Ingresos Agosto
                           </h4>
                           <h3 class="text-center ">
                             {{ campaign.ingresosAct }}
@@ -226,14 +226,14 @@
                       <v-row>
                         <v-col>
                           <h4 class="text-center" style="color:#929292">
-                            Mayo
+                            Julio
                           </h4>
                           <h3 class="text-center gray-text">
                             {{ campaign.minAnt }}
                           </h3>
                         </v-col>
                         <v-col>
-                          <h4 class="text-center orange--text">Junio</h4>
+                          <h4 class="text-center orange--text">Agosto</h4>
                           <h3 class="text-center gray-text">
                             {{ campaign.minAct }}
                           </h3>
@@ -243,14 +243,14 @@
                       <!-- </div> -->
                       <v-row>
                         <v-col>
-                          <h4 class="text-center">Ingresos Mayo</h4>
+                          <h4 class="text-center">Ingresos Julio</h4>
                           <h3 class="text-center">
                             {{ campaign.ingresosAnt }}
                           </h3>
                         </v-col>
                         <v-col>
                           <h4 class="text-center orange--text">
-                            Ingresos Junio
+                            Ingresos Agosto
                           </h4>
                           <h3 class="text-center ">
                             {{ campaign.ingresosAct }}
